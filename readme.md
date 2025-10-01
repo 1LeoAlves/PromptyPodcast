@@ -1,4 +1,4 @@
-![Podcaster](PromptyPodcast/Assets/capa.png)
+![Podcaster](https://github.com/1LeoAlves/PromptyPodcast/blob/main/Assets/capa.png)
 
 # 🎙️ PromptyPodcast
 
