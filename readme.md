@@ -1,3 +1,5 @@
+![Podcaster](PromptyPodcast/assets/capa.png)
+
 # 🎙️ PromptyPodcast
 
 > Um repositório dedicado ao desenvolvimento completo do **PromptyPodcast** — um podcast que explora o uso da **Inteligência Artificial (IA)** na **criação de jogos em Unity 3D**.
