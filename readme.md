@@ -1,4 +1,4 @@
-![Podcaster](PromptyPodcast/assets/capa.png)
+![Podcaster](PromptyPodcast/Assets/capa.png)
 
 # 🎙️ PromptyPodcast
 
