@@ -34,9 +34,9 @@ Neste repositório, você encontrará:
 | Categoria              | Ferramentas |
 |------------------------|-------------|
 | 🎮 Motor de Jogo       | Unity 3D |
-| 🤖 Inteligência Artificial | ChatGPT, . |
+| 🤖 Inteligência Artificial | ChatGPT, etc |
 | 🎧 Edição de Áudio      | ClipChamp |
-| 🎨 Design Gráfico       | Figma, Canva |
+| 🎨 Design Gráfico       | Figma, Canva, inkscape |
 | 📋 Organização          | Notion, GitHub Projects |
 
 ---
@@ -55,7 +55,8 @@ Cada episódio abordará temas como:
 
 ## 🤖 Exemplos de Conteúdo
 
-- 🧩 *Episódio 1:* “O que a IA realmente entende sobre criar um jogo?”  
+- 🧩 *Episódio 1:* “O que a IA realmente entende sobre criar um jogo?”
+# EM BREVE
 - 🕹️ *Episódio 2:* “Construindo mundos com prompts — Unity e IA lado a lado”  
 - 🎨 *Episódio 3:* “Design generativo e arte procedural em jogos”  
 - 🗣️ *Episódio 4:* “NPCs com personalidade: IA e diálogos dinâmicos”
