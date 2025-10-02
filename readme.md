@@ -63,15 +63,6 @@ Cada episódio abordará temas como:
 
 ---
 
-## 📢 Como Contribuir
-
-Quer colaborar com ideias, roteiros ou experiências técnicas?
-
-1. Faça um **fork** do repositório.  
-2. Crie uma nova branch:  
-   ```bash
-   git checkout -b minha-contribuicao
-3. Adicione suas alterações e envie um pull request.
 Compartilhe suas ideias em Issues — todas as sugestões são bem-vindas!
 
 ## 🧾 Licença
@@ -80,6 +71,5 @@ Este projeto está licenciado sob a MIT License — sinta-se livre para usar, es
 
 “A IA não substitui a criatividade — ela amplia as possibilidades.”
 — Equipe PromptyPodcast
-
 
 ---
