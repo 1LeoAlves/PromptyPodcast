@@ -26,28 +26,7 @@ Neste repositório, você encontrará:
 - Demonstrar o uso prático de **modelos generativos** na criação de **roteiros, diálogos e personagens**;  
 - Integrar IA com **Unity 3D**, testando automações, geração procedural e criação de assets inteligentes;  
 - Produzir uma **série de episódios** com foco técnico, criativo e educacional.
-
----
-
-## 🧩 Estrutura do Repositório
-
-````
-PromptyPodcast/
-│
-├── 🎧 podcast/
-│ ├── roteiros/ # Roteiros dos episódios
-│ ├── edicoes/ # Arquivos de áudio e edição
-│ ├── artes/ # Capas, logos e materiais visuais
-│ └── episodios/ # Versões finais dos episódios
-│
-├── 💻 desenvolvimento/
-│ ├── unity/ # Projetos e experimentos em Unity 3D
-│ ├── ia/ # Ferramentas, prompts e scripts de IA
-│ └── docs/ # Documentação técnica
-│
-└── 📄 README.md # Este arquivo
-````
-
+- 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -55,8 +34,8 @@ PromptyPodcast/
 | Categoria              | Ferramentas |
 |------------------------|-------------|
 | 🎮 Motor de Jogo       | Unity 3D |
-| 🤖 Inteligência Artificial | ChatGPT, Copilot, Leonardo AI, Runway, etc. |
-| 🎧 Edição de Áudio      | Audacity, Reaper, FL Studio |
+| 🤖 Inteligência Artificial | ChatGPT, . |
+| 🎧 Edição de Áudio      | ClipChamp |
 | 🎨 Design Gráfico       | Figma, Canva |
 | 📋 Organização          | Notion, GitHub Projects |
 
