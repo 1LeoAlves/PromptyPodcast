@@ -4,7 +4,7 @@
 
 > Um repositório dedicado ao desenvolvimento completo do **PromptyPodcast** — um podcast que explora o uso da **Inteligência Artificial (IA)** na **criação de jogos em Unity 3D**.
 
-🔗 [Notion do Projeto](https://www.notion.so/PP-PromptyPodcast-27f74741d6618018839cd178100192a8?source=copy_link)
+🔗 [Notion do Projeto](https://www.notion.so/PP-PromptyPodcast-280f2662661d81f89b5dd89715e24775?source=copy_link)
 ---
 
 ## 🧠 Sobre o Projeto
